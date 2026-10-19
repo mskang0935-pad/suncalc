@@ -4,9 +4,12 @@
 
 ## 공개 웹페이지 (GitHub Pages)
 
-저장소를 GitHub에 올린 뒤 Pages가 활성화되면 아래 주소로 누구나 접속할 수 있습니다.
+누구나 아래 주소로 접속할 수 있습니다.
 
-`https://<GitHub사용자명>.github.io/suncalc/`
+**https://mskang0935-pad.github.io/suncalc/**
+
+- 저장소: https://github.com/mskang0935-pad/suncalc
+- 배포 폴더: `docs/` (GitHub Pages)
 
 ## 로컬 실행 (Python API 서버)
 
